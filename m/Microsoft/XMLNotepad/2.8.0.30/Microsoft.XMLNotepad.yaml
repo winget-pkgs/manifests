@@ -2,7 +2,7 @@ PackageIdentifier: Microsoft.XMLNotepad
 Author: Chris Lovett
 Publisher: Microsoft Corporation
 PackageName: XML Notepad
-PackageVersion: 2.8.0.25
+PackageVersion: 2.8.0.30
 License: Copyright (C) Microsoft Corporation
 LicenseUrl: https://github.com/microsoft/XmlNotepad/blob/master/LICENSE
 MinimumOSVersion: 10.0.18362.0
@@ -17,8 +17,8 @@ PackageUrl: https://github.com/microsoft/xmlnotepad
 Installers:
 - Architecture: neutral
   InstallerType: msix
-  InstallerUrl: https://lovettsoftwarestorage.blob.core.windows.net/downloads/XmlNotepad.Net/2.8.0.25/XmlNotepadPackage_2.8.0.25_Test/XmlNotepadPackage_2.8.0.25_AnyCPU.msixbundle
-  InstallerSha256: 50b5e3dd24512e41f7afc8242b5b40e36f71e0aad6f54f9f106ae8c87c5cbea2
+  InstallerUrl: https://lovettsoftwarestorage.blob.core.windows.net/downloads/XmlNotepad.Net/2.8.0.30/XmlNotepadPackage_2.8.0.30_Test/XmlNotepadPackage_2.8.0.30_AnyCPU.msixbundle
+  InstallerSha256: d6ce5dcae08735a3cb41c3c1821637f345beda48b693583adb4a44a8784b9e7d
   InstallerLocale: en
 PackageLocale: en-US
 ManifestType: singleton
