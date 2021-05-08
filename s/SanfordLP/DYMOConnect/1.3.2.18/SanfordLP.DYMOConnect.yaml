@@ -1,5 +1,5 @@
 PackageIdentifier: SanfordLP.DYMOConnect
-PackageVersion: 1.3.1
+PackageVersion: 1.3.2.18
 PackageName: DYMO Connect
 Publisher: Sanford L.P.
 License: Copyright (c) Sanford L.P.
@@ -17,11 +17,10 @@ Tags:
 - LabelManager 500TS
 - LabelManager PnP
 ShortDescription: DYMO Connect for Desktop enables the creation and printing of labels for LabelWriter 450 series/4XL and LabelManager printers.
-PackageUrl: https://www.dymo.com/en-US/online-support/dymo-user-guides
 Installers:
 - Architecture: x86
-  InstallerUrl: https://download.dymo.com/dymo/Software/Win/DCDSetup1.3.1.exe
-  InstallerSha256: 9E8108001C1C234E664B207D898D41E02CCF42BCE39C10DD2F9DF42D4C81EFF9
+  InstallerUrl: https://s3.amazonaws.com/download.dymo.com/dymo/Software/Win/DCDSetup1.3.2.18.exe
+  InstallerSha256: 5ae49e20ebc978e2505defcb0a3dedece1ee4c59a887de4f2077dcc6516d598e
   InstallerType: exe
   InstallerSwitches:
     Silent: "/S /v/qn"
