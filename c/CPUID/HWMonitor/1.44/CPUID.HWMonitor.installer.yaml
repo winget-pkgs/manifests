@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.0.0.schema.json
-PackageIdentifier: CPUID.CPU-Z
-PackageVersion: 1.96
+PackageIdentifier: CPUID.HWMonitor
+PackageVersion: 1.44
 MinimumOSVersion: 10.0.0.0
 InstallModes:
   - interactive
@@ -9,8 +9,8 @@ InstallModes:
 Installers:
   - Architecture: neutral
     InstallerType: inno
-    InstallerUrl: https://download.cpuid.com/cpu-z/cpu-z_1.96-en.exe
-    InstallerSha256: DEBF889F9193E564BD000B0239D02218EA41C0A47ED6C9A1448E11D06BC0F3F5
+    InstallerUrl: https://download.cpuid.com/hwmonitor/hwmonitor_1.44.exe
+    InstallerSha256: fc672a41e4f1925d1f66ce262321b7f80267996786a58c2bc749b8d69582c8e9
     Scope: machine
     InstallerLocale: en-US
     UpgradeBehavior: install

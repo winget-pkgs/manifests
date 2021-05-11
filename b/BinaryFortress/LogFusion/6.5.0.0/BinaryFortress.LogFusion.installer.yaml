@@ -1,16 +1,16 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.0.0.schema.json
-PackageIdentifier: CPUID.CPU-Z
-PackageVersion: 1.96
+PackageIdentifier: BinaryFortress.LogFusion
+PackageVersion: 6.5.0.0
 MinimumOSVersion: 10.0.0.0
 InstallModes:
   - interactive
   - silent
   - silentWithProgress
 Installers:
-  - Architecture: neutral
+  - Architecture: x86
     InstallerType: inno
-    InstallerUrl: https://download.cpuid.com/cpu-z/cpu-z_1.96-en.exe
-    InstallerSha256: DEBF889F9193E564BD000B0239D02218EA41C0A47ED6C9A1448E11D06BC0F3F5
+    InstallerUrl: https://binaryfortressdownloads.com/Download/BFSFiles/117/LogFusionSetup-6.5.exe
+    InstallerSha256: BC98824ADA055E6CF3ECEA087D92EE00B6C276A48AB4120B41204DE47ABAD8B5
     Scope: machine
     InstallerLocale: en-US
     UpgradeBehavior: install

@@ -1,16 +1,16 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.0.0.schema.json
-PackageIdentifier: CPUID.CPU-Z
-PackageVersion: 1.96
+PackageIdentifier: BinaryFortress.DisplayFusion
+PackageVersion: 9.8.0.0
 MinimumOSVersion: 10.0.0.0
 InstallModes:
   - interactive
   - silent
   - silentWithProgress
 Installers:
-  - Architecture: neutral
+  - Architecture: x86
     InstallerType: inno
-    InstallerUrl: https://download.cpuid.com/cpu-z/cpu-z_1.96-en.exe
-    InstallerSha256: DEBF889F9193E564BD000B0239D02218EA41C0A47ED6C9A1448E11D06BC0F3F5
+    InstallerUrl: https://binaryfortressdownloads.com/Download/BFSFiles/101/DisplayFusionSetup-9.8.exe
+    InstallerSha256: 454D1DD717A5243407CCC019A936ADEF6E2E5D219B12ABA96F809270C63C002F
     Scope: machine
     InstallerLocale: en-US
     UpgradeBehavior: install
