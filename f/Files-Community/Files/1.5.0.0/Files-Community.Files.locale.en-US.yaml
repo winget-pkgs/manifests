@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultlocale.1.0.0.schema.json
-PackageIdentifier: Files-UWP.FilesUWP
-PackageVersion: 1.5
+PackageIdentifier: Files-Community.Files
+PackageVersion: 1.5.0.0
 PackageLocale: en-US
-Publisher: Files-UWP
+Publisher: Yair A
 PublisherUrl: https://github.com/files-community/Files
 PublisherSupportUrl: https://github.com/files-community/Files/issues
 #PrivacyUrl: 
 Author: Files Community
-PackageName: FilesUWP
+PackageName: Files
 PackageUrl: https://github.com/files-community/files-uwp
 License: GNU General Public License v3.0
 LicenseUrl: https://github.com/files-community/Files/blob/main/LICENSE
@@ -17,6 +17,7 @@ ShortDescription: Files UWP is a modern File Explorer app for Windows.
 #Description: 
 Moniker: filesuwp
 Tags:
+  - FilesUWP
   - file explorer
   - files
   - xaml
