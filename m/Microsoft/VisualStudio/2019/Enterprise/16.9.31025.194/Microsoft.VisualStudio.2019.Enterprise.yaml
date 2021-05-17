@@ -1,11 +1,11 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.singleton.1.0.0.schema.json
-PackageIdentifier: Microsoft.VisualStudio.Enterprise
-PackageVersion: 16.9.31229.75
-PackageName: Visual Studio Enterprise
+PackageIdentifier: Microsoft.VisualStudio.2019.Enterprise
+PackageVersion: 16.9.31025.194
+PackageName: Visual Studio 2019 Enterprise
 Publisher: Microsoft
 License: Copyright (c) Microsoft Corporation
 LicenseUrl: https://visualstudio.microsoft.com/license-terms/
-Moniker: devenv
+Moniker: vs2019-enterprise
 Tags:
 - C++
 - vs
@@ -14,8 +14,8 @@ ShortDescription: Visual Studio Enterprise
 PackageUrl: https://visualstudio.microsoft.com/
 Installers:
 - Architecture: x64
-  InstallerUrl: https://download.visualstudio.microsoft.com/download/pr/9665567e-f580-4acd-85f2-bc94a1db745f/e4c3db5a186df9cc85948d1ec8eec7dba4123916cbf5b980de2d62b6efa59bd2/vs_Enterprise.exe
-  InstallerSha256: E4C3DB5A186DF9CC85948D1EC8EEC7DBA4123916CBF5B980DE2D62B6EFA59BD2
+  InstallerUrl: https://download.visualstudio.microsoft.com/download/pr/5c555b0d-fffd-45a2-9929-4a5bb59479a4/c3928fa0ec49c265eb393017f9029b643104e8e92874446557b95dd4a9a03e91/vs_Enterprise.exe
+  InstallerSha256: C3928FA0EC49C265EB393017F9029B643104E8E92874446557B95DD4A9A03E91
   InstallerType: exe
   InstallerSwitches:
     Silent: --quiet
