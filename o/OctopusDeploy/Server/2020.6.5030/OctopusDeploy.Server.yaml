@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.singleton.1.0.0.schema.json
 PackageIdentifier: OctopusDeploy.Server
-PackageVersion: 2020.6.4855
+PackageVersion: 2020.6.5030
 PackageName: Octopus Deploy Server
 Publisher: Octopus Deploy
 License: Copyright © 2021 Octopus Deploy
@@ -16,10 +16,10 @@ ShortDescription: Octopus Deploy makes it easy to automate your deployments and 
 PackageUrl: https://octopus.com/
 Installers:
 - Architecture: x64
-  InstallerUrl: https://download.octopusdeploy.com/octopus/Octopus.2020.6.4855-x64.msi
-  InstallerSha256: 8603E4BD89ABF2BE2DDBFA93D2C4CE5E9A0F28DD63ABDA04AAC16A0DB9F06A72
+  InstallerUrl: https://download.octopusdeploy.com/octopus/Octopus.2020.6.5030-x64.msi
+  InstallerSha256: 234D18B405E5F5AE4CC65E7817CF34A48E25CB47DF829A81D39E9CF7000DC212
   InstallerType: msi
-  ProductCode: "{1A991199-51E0-4E06-8FAF-62302DB6EDDC}"
+  ProductCode: "{25F756B5-6118-466F-A217-84002839990E}"
 PackageLocale: en-US
 ManifestType: singleton
 ManifestVersion: 1.0.0
