@@ -1,11 +1,12 @@
-PackageIdentifier: 4KDownload.4KSlideshowMaker
-Publisher: 4K Download
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.singleton.1.0.0.schema.json
+PackageIdentifier: OpenMedia.4KSlideshowMaker
+Publisher: OpenMedia LLC
 PackageName: 4K Slideshow Maker
 PackageVersion: 1.8.1
 License: See in https://www.4kdownload.com/agreement/freeware.
 InstallerType: msi
 LicenseUrl: https://www.4kdownload.com/agreement/freeware
-Moniker: ''
+Moniker: ""
 Tags:
 - slideshow-maker
 - slideshows
@@ -21,3 +22,4 @@ Installers:
 PackageLocale: en-US
 ManifestType: singleton
 ManifestVersion: 1.0.0
+
