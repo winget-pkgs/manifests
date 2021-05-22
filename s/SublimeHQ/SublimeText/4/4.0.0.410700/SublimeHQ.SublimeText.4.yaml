@@ -1,6 +1,7 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.0.0.schema.json
-PackageIdentifier: Cockos.REAPER
-PackageVersion: 6.28
+PackageIdentifier: SublimeHQ.SublimeText.4
+PackageVersion: 4.0.0.410700
 DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.0.0
+
