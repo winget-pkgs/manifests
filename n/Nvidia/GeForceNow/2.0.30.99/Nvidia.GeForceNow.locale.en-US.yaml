@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultlocale.1.0.0.schema.json
 PackageIdentifier: Nvidia.GeForceNow
-PackageVersion: 2.0.29.120
+PackageVersion: 2.0.30.99
 PackageLocale: en-US
 Publisher: NVIDIA Corporation
 PublisherUrl: https://www.nvidia.com
@@ -14,11 +14,12 @@ LicenseUrl: https://www.nvidia.com/en-us/drivers/nvidia-license
 Copyright: Copyright © 2021 NVIDIA Corporation
 CopyrightUrl: https://www.nvidia.com/en-us/drivers/nvidia-license
 ShortDescription: GeForce NOW connects to digital PC game stores so you can stream the library of games you already own.
-Description: GeForce NOW instantly transforms nearly any laptop, desktop, Mac, SHIELD TV or Android mobile device into the PC gaming rig you've always dreamed of. Instantly play the most demanding PC games and seamlessly play across your devices.
+Description: GeForce NOW instantly transforms nearly any laptop, desktop, Mac, SHIELD TV or Android mobile device into the PC gaming rig you"ve always dreamed of. Instantly play the most demanding PC games and seamlessly play across your devices.
 Moniker: geforcenow
 Tags:
-  - games
-  - streaming
-  - game streaming
+- games
+- streaming
+- game streaming
 ManifestType: defaultLocale
 ManifestVersion: 1.0.0
+
