@@ -1,7 +1,7 @@
 # Created using wingetcreate
 
-PackageIdentifier: CPUID.CPU-Z
-PackageVersion: 1.96
+PackageIdentifier: LibreOffice.LibreOffice-PreReleases
+PackageVersion: 7.1.4.1
 DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.0.0

@@ -1,7 +1,7 @@
 # Created using wingetcreate
 
-PackageIdentifier: CPUID.CPU-Z
-PackageVersion: 1.96
+PackageIdentifier: nzbget.nzbget
+PackageVersion: 21.0
 DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.0.0
