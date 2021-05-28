@@ -1,5 +1,5 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.0.0.schema.json
-PackageIdentifier: Microsoft.VisualStudio.RemoteTools
+PackageIdentifier: Microsoft.VisualStudio.2019.RemoteTools
 PackageVersion: 16.0.31205.134
 Installers:
 - Architecture: x64
@@ -25,4 +25,3 @@ Installers:
     SilentWithProgress: /install /quiet
 ManifestType: installer
 ManifestVersion: 1.0.0
-
