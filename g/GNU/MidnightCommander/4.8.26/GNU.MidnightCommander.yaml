@@ -1,7 +1,7 @@
 # Created using wingetcreate
 
-PackageIdentifier: EliasFotinis.DeskPins
-PackageVersion: 1.32
+PackageIdentifier: GNU.MidnightCommander
+PackageVersion: 4.8.26
 DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.0.0
