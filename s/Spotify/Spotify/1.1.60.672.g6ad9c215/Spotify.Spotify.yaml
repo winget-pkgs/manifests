@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.0.0.schema.json
-PackageIdentifier: MPC-HC.MPC-HC
-PackageVersion: 1.7.13
+PackageIdentifier: Spotify.Spotify
+PackageVersion: 1.1.60.672.g6ad9c215
 DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.0.0
