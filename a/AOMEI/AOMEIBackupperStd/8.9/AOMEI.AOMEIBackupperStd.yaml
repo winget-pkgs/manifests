@@ -1,7 +1,7 @@
 # Created using wingetcreate
 
-PackageIdentifier: Valve.Steam
-PackageVersion: 2.10.91.91
+PackageIdentifier: AOMEI.AOMEIBackupperStd
+PackageVersion: 8.9
 DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.0.0
