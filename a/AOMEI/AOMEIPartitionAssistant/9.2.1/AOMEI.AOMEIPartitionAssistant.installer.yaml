@@ -1,6 +1,6 @@
 # Created using wingetcreate
 
-PackageIdentifier: AOMEISoftware.AOMEIPartitionAssistant
+PackageIdentifier: AOMEI.AOMEIPartitionAssistant
 PackageVersion: 9.2.1
 Installers:
 - Architecture: x64
