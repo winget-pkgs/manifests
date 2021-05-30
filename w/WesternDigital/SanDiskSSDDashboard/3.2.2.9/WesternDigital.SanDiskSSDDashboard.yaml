@@ -1,7 +1,7 @@
 # Created using wingetcreate
 
-PackageIdentifier: TheqBittorrentproject.qBittorrent
-PackageVersion: 4.3.5
+PackageIdentifier: WesternDigital.SanDiskSSDDashboard
+PackageVersion: 3.2.2.9
 DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.0.0
