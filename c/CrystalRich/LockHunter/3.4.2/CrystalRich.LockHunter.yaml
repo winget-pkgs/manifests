@@ -1,7 +1,7 @@
 # Created using wingetcreate
 
-PackageIdentifier: Lexikos.AutoHotkey
-PackageVersion: 1.1.33.09
+PackageIdentifier: CrystalRich.LockHunter
+PackageVersion: 3.4.2
 DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.0.0
