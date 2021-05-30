@@ -1,9 +1,9 @@
 # Created using wingetcreate
 
-PackageIdentifier: AOMEI.AOMEIPartitionAssistant
+PackageIdentifier: AOMEI.PartitionAssistant
 PackageVersion: 9.2.1
 Installers:
-- Architecture: x64
+- Architecture: neutral
   InstallerType: inno
   InstallerUrl: https://www2.aomeisoftware.com/download/pa/PAssist_Std.exe
   InstallerSha256: D7F9319099170BCD4C4C70A5598445EB6C68E1269DA2492D938CEA75DDCA5839
