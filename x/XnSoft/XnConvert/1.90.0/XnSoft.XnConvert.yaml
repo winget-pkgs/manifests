@@ -1,7 +1,7 @@
 # Created using wingetcreate
 
-PackageIdentifier: TeXstudio.TeXstudio
-PackageVersion: 3.1.2
+PackageIdentifier: XnSoft.XnConvert
+PackageVersion: 1.90.0
 DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.0.0

@@ -1,7 +1,7 @@
 # Created using wingetcreate
 
-PackageIdentifier: TeXstudio.TeXstudio
-PackageVersion: 3.1.2
+PackageIdentifier: SharkLabs.ClownfishVoiceChanger
+PackageVersion: 1.45.0.0
 DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.0.0
