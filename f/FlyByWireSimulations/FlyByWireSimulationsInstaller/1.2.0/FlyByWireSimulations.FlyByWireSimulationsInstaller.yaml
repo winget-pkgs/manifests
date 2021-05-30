@@ -1,7 +1,7 @@
 # Created using wingetcreate
 
-PackageIdentifier: ZoomVideoCommunications,Inc.ZoomMeetingsInstaller
-PackageVersion: 5.6.6
+PackageIdentifier: FlyByWireSimulations.FlyByWireSimulationsInstaller
+PackageVersion: 1.2.0
 DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.0.0
