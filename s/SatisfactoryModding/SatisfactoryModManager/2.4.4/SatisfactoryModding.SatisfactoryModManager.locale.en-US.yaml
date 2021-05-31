@@ -1,9 +1,9 @@
 # Created using wingetcreate
 
-PackageIdentifier: Mircearoata.SatisfactoryModManager
+PackageIdentifier: SatisfactoryModding.SatisfactoryModManager
 PackageVersion: 2.4.4
 PackageLocale: en-US
-Publisher: Mircearoata
+Publisher: SatisfactoryModding
 PackageName: Satisfactory Mod Manager
 License: GPLv3
 ShortDescription: Handles Satisfactory mods and mod loader
