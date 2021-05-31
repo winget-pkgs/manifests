@@ -1,5 +1,5 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.0.0.schema.json
-PackageIdentifier: VB-Audio.VoiceMeeterPotato
+PackageIdentifier: VB-Audio.VoiceMeeter
 PackageVersion: latest
 DefaultLocale: en-US
 ManifestType: version
