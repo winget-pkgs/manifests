@@ -1,7 +1,7 @@
 # Created using wingetcreate
 
-PackageIdentifier: Kong.Insomnia
-PackageVersion: 2021.3.0
+PackageIdentifier: Ottomated.CrewLink
+PackageVersion: 2.0.1.241
 DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.0.0
